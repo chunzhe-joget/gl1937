@@ -1,5 +1,14 @@
-{"properties": {
-    "name": "test",
-    "description": "",
-    "id": "API-af76f08b-6a3b-49c9-bd40-798d61158cf5"
-}}
+{
+    "elements": [{
+        "className": "org.joget.api.lib.AppAPI",
+        "properties": {
+            "id": "48C5D46C-EA69-4344-06CE-D5D6C95FF244",
+            "ENABLED_PATHS": "get:/versions"
+        }
+    }],
+    "properties": {
+        "name": "test",
+        "description": "",
+        "id": "API-af76f08b-6a3b-49c9-bd40-798d61158cf5"
+    }
+}
